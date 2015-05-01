@@ -2,8 +2,8 @@
 Tags: quiz, test, viral, buzzfeed
 Requires at least: 3.5
 Tested up to: 4.0
-Version: 1.2
-Stable tag: 1.2
+Version: 1.3
+Stable tag: 1.3
 
 With this plugin you can create any number of BuzzFeed style Personality Quizzes. Interface is easy and it is mobile friendly. So Just try it!
 
