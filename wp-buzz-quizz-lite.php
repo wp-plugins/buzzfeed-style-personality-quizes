@@ -3,10 +3,10 @@
 Plugin Name: Wordpress BuzzFeed Style Quizz Lite
 Plugin URI: http://voodoopress.net/wordpress-buzzfeed-style-quiz-plugin/
 Description: With this  plugin you can create any number of BuzzFeed style Quizzes.
-Version: 1.3
+Version: 1.4
 Author: Evgen "EvgenDob" Dobrzhanskiy
 Author URI: http://voodoopress.net/
-Stable tag: 1.3
+Stable tag: 1.4
 */
 
 include('modules/meta_box.php');
